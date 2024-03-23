@@ -2,7 +2,7 @@ package aula2;
 
 public class Calculadora {
     
-    Double numA;
+    public Double numA;
     Double numB;
 
     Double somar(){
@@ -17,4 +17,6 @@ public class Calculadora {
     Double multiplicar(){
         return numA * numB;
     }
+    
 }
+
